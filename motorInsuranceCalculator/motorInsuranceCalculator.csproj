@@ -64,6 +64,7 @@
   <ItemGroup>
     <Compile Include="Claim.cs" />
     <Compile Include="Driver.cs" />
+    <Compile Include="Functions.cs" />
     <Compile Include="MotorInsuranceCalculator.cs" />
     <Compile Include="Policy.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
